@@ -1,2 +1,2 @@
 # Dhea
-Project for web programming
+Project for web programming class
